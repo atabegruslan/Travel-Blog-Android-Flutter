@@ -7,9 +7,9 @@
 
 - https://flutter.dev/docs/get-started/install/macos
 
-Download Java
-Download and install Android Studio
-Download Flutter
+- Download Java
+- Download and install Android Studio
+- Download Flutter
 	- `cd Applications`
 	- `git clone https://github.com/flutter/flutter.git`
 	- `sudo chmod 777 flutter`
@@ -17,16 +17,16 @@ Download Flutter
 	- (or `nano /etc/paths`, `/Users/ruslan/Applications/flutter/bin`)
 	- `nano ~/.bash_profile`, `export PATH=/Users/ruslan/Applications/flutter/bin:$PATH`, `source $HOME/.bash_profile`
 	- `flutter`
-Prepare phone
+- Prepare phone
 	- Enable Developer options on Android phone: Settings, About phone, tap Build number 7 times.
 	- Enable USB debugging: Settings, Developer options, turn this on, turn on Stay awake, turn on USB debugging.
 	- Connect device: Press Allow on phone. Set to the appropriate USB connect options on phone. Download necessary drivers if needed.
 		- https://www.samsung.com/vn/apps/smart-switch/
 		- https://www.android.com/filetransfer/
 	- `flutter devices`
-Prepare Android Studio's simulator
+- Prepare Android Studio's simulator
 	- Open Android Studio, Configure, AVD manager, Create virtual device, set it up.
-Install DART and Flutter plugins into Android Studio
+- Install DART and Flutter plugins into Android Studio
 	- Open Android Studio, Configure, Plugins, search DART, install, then search Flutter, install.
 
 # Tutorials
