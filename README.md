@@ -13,7 +13,7 @@
 	- `cd Applications`
 	- `git clone https://github.com/flutter/flutter.git`
 	- `sudo chmod 777 flutter`
-	- (`export PATH="$PATH:pwd`/flutter/bin"`)
+	- (`export PATH="$PATH:pwd/flutter/bin"`)
 	- (or `nano /etc/paths`, `/Users/ruslan/Applications/flutter/bin`)
 	- `nano ~/.bash_profile`, `export PATH=/Users/ruslan/Applications/flutter/bin:$PATH`, `source $HOME/.bash_profile`
 	- `flutter`
