@@ -1,7 +1,7 @@
 # Travel Blog Android App
 
 - This is an update for https://github.com/Ruslan-Aliyev/Travel-Blog-Android
-- This is the Android App part of https://github.com/atabegruslan/Travel-Blog-Laravel-5-8
+- This is the Laravel part of https://github.com/atabegruslan/Travel-Blog-Laravel-5-8
 
 # Setup Flutter (Mac)
 
