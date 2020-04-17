@@ -28,7 +28,6 @@ https://flutter.dev/docs/get-started/install/windows
 - Download Flutter
 	- `git clone https://github.com/flutter/flutter.git` in `C:\`
 	- Add `C:/flutter/bin;` to user env path
-	- In PowerShell 5+, run `flutter doctor`
 - In AndroidStudio's Package Manager
 	- Get DART plugin
 	- Get Flutter Plugin
