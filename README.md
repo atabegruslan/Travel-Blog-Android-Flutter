@@ -58,10 +58,10 @@ If you cant see your phone there or in AndroidStudio's Select Deployment Target 
 Start, Device Manager: if you see "other devices" with ADB Interface and Android Samsung under it with exclaimation icons beside them, then do:
 
 https://uptodrivers.com/samsung-galaxy-a01-usb-driver-free-download/90393/ (I have Samsung A01)
-- https://uptodrivers.com/android-usb-driver/ (Get Google USB Driver in Android Package Manager > SDK tools)
--- https://uptodrivers.com/adb-usb-drivers-free-download/ (NEED ADB Driver)
---- https://www.youtube.com/watch?v=171KC_K3W4E (Have to manually install ADB Driver)
--- https://developer.samsung.com/mobile/android-usb-driver.html (Get Android driver)
+	- https://uptodrivers.com/android-usb-driver/ (Get Google USB Driver in Android Package Manager > SDK tools)
+		- https://uptodrivers.com/adb-usb-drivers-free-download/ (NEED ADB Driver)
+			- https://www.youtube.com/watch?v=171KC_K3W4E (Have to manually install ADB Driver)
+		- https://developer.samsung.com/mobile/android-usb-driver.html (Get Android driver)
 
 Manually install ADB Driver:
 
