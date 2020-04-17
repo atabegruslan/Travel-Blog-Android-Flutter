@@ -48,11 +48,11 @@ https://flutter.dev/docs/get-started/install/windows
 
 Note: For Windows, these are better ran in PowerShell 5+.
 
-# Start FLutter Project
+# Start Flutter Project
 
 Open AndroidStudio, file, new, chose *new flutter project* . 
 
-If you chose 'new project', you'd start to develop Android apps using Java the old fashioned way. (or Kotlin if you have the Kotlin plugin and ticked 'include Kotlin support' in the start-new-project wizard.
+If you chose 'new project', you'd start to develop Android apps using Java the old fashioned way. (or Kotlin if you have the Kotlin plugin and ticked 'include Kotlin support' in the start-new-project wizard)
 
 # Tutorials
 
