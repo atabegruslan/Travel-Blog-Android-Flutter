@@ -34,7 +34,7 @@ https://flutter.dev/docs/get-started/install/windows
 
 ## Prepare devices
 
-- Phone for USB Debug: https://gist.github.com/atabegruslan/bfe4b95e86457b3a69a50f12d4644b72
+- Phone for USB Debug: https://github.com/atabegruslan/Others/blob/master/Illustrations/Phone%20for%20USB%20Debug.md
 - Virtual Device: Setup in AndroidStudio's Virtual Device Manager
 
 # Useful commands that you can now run
