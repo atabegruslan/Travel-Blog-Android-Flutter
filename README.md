@@ -1,9 +1,23 @@
 # Travel Blog Android App
 
+## Related Projects
+
 - This is an update for https://github.com/Ruslan-Aliyev/Travel-Blog-Android
 - This is the Laravel part of https://github.com/atabegruslan/Travel-Blog-Laravel-5-8
 
-# Setup Flutter (Mac)
+## Counterparts
+
+| Java  | Kotlin  | Flutter  | ReactNative  |
+|---|---|---|---|
+|   |   | [this](https://github.com/atabegruslan/Travel-Blog-Android-Flutter)  |   |
+
+## Building blocks
+
+https://github.com/atabegruslan/Others/blob/master/Illustrations/Android%20Development%20-%20Building%20Blocks.md
+
+## Other Info about this
+
+### Setup Flutter (Mac)
 
 https://flutter.dev/docs/get-started/install/macos
 
@@ -20,7 +34,7 @@ https://flutter.dev/docs/get-started/install/macos
 	- Get DART plugin
 	- Get Flutter Plugin
 
-# Setup Flutter (Windows)
+### Setup Flutter (Windows)
 
 https://flutter.dev/docs/get-started/install/windows
 
@@ -32,12 +46,7 @@ https://flutter.dev/docs/get-started/install/windows
 	- Get DART plugin
 	- Get Flutter Plugin
 
-## Prepare devices
-
-- Phone for USB Debug: https://github.com/atabegruslan/Others/blob/master/Illustrations/Android/Phone%20for%20USB%20Debug.md
-- Virtual Device: Setup in AndroidStudio's Virtual Device Manager
-
-# Useful commands that you can now run
+### Useful commands that you can now run
 
 - Check if you can use the flutter command: `flutter` or `flutter --version`
 - See your devices: `flutter devices` 
@@ -47,27 +56,12 @@ https://flutter.dev/docs/get-started/install/windows
 
 Note: For Windows, these are better ran in PowerShell 5+.
 
-# Start Flutter Project
+### Start Flutter Project
 
 Open AndroidStudio, file, new, chose *new flutter project* . 
 
 If you chose 'new project', you'd start to develop Android apps using Java the old fashioned way. (or Kotlin if you have the Kotlin plugin and ticked 'include Kotlin support' in the start-new-project wizard)
 
-# Tutorials
-
-- https://www.youtube.com/playlist?list=PLlxmoA0rQ-Lw6tAs2fGFuXGP13-dWdKsB
-- https://www.youtube.com/playlist?list=PLUbFnGajtZlX9ubiLzYz_cw92esraiIBi
-
-# Documentations
-
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
-- https://flutter.dev/docs
-
-# HTTP Libraries
-
-Chopper is like Retrofit: https://resocoder.com/2019/07/14/chopper-retrofit-for-flutter-3-converters-built-value-integration/
-
-# Publishing APK
+### Publishing APK
 
 - https://flutter.dev/docs/deployment/android
